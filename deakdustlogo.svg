@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="deakdustlogo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:bx="https://boxy-svg.com">
+  <sodipodi:namedview
+     id="namedview28"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71624579"
+     inkscape:cx="376.96557"
+     inkscape:cy="673.65143"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="483"
+       y="879"
+       width="253"
+       height="90.999998"
+       id="rect4" />
+    <rect
+       x="54"
+       y="879"
+       width="250"
+       height="186"
+       id="rect3" />
+    <linearGradient
+       id="swatch1">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       x1="0.96102834"
+       y1="152.71682"
+       x2="212.1028"
+       y2="152.71682"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.85946766,0,0,0.64332802,15.692694,49.493007)"
+       href="#swatch1" />
+    <bx:export>
+      <bx:file
+         format="svg"
+         href="#rect1"
+         units="mm" />
+      <bx:file
+         format="svg"
+         href="#layer1"
+         path="Untitled 2.svg"
+         units="mm" />
+      <bx:file
+         format="svg"
+         href="#object-0"
+         path="Untitled 3.svg"
+         units="mm" />
+      <bx:file
+         format="svg"
+         href="#object-1"
+         path="Untitled 4.svg"
+         units="mm" />
+      <bx:file
+         format="svg"
+         href="#object-2"
+         path="Untitled 5.svg"
+         units="mm" />
+      <bx:file
+         format="svg"
+         href="#object-3"
+         path="Untitled 6.svg"
+         units="mm" />
+      <bx:file
+         format="svg"
+         href="#object-4"
+         path="Untitled 7.svg"
+         units="mm" />
+      <bx:file
+         format="svg"
+         href="#object-5"
+         path="Untitled 8.svg"
+         units="mm" />
+    </bx:export>
+  </defs>
+  <g
+     id="layer1"
+     transform="matrix(1,0,0,1.0052951,0,-1.564508)">
+    <path
+       id="rect1"
+       style="fill:#6ba863;fill-opacity:1;stroke:url(#linearGradient1);stroke-width:2.35347;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="m 16.063675,49.798337 c 0,65.294373 0,130.588953 0,195.883373 0.304356,0.40697 0.861188,0.35775 1.400327,0.3405 60.174898,0 120.349888,0 180.524718,0 0.54373,-0.2278 0.47794,-0.64464 0.45485,-1.04819 0,-65.05862 0,-130.11717 0,-195.175683 -0.30433,-0.407012 -0.86108,-0.357775 -1.4002,-0.340511 -60.17491,0 -120.349887,0 -180.524782,0 -0.151637,0.113503 -0.303275,0.227007 -0.454913,0.340511 z" />
+    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Verdana;white-space:pre;fill:#6ba863;fill-opacity:1;stroke-width:3.165;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers"
+       x="48.830139"
+       y="36.856468"
+       id="text1"><tspan
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Verdana;-inkscape-font-specification:Verdana;fill:#000000;stroke-width:3.165"
+         x="48.830139"
+         y="36.856468" /></text>
+    <text
+       style="font-size:19.7556px;white-space:pre;fill:#000000;fill-opacity:1;stroke-width:3.165;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:markers"
+       x="103.83421"
+       y="53.881538"
+       id="text2"><tspan
+         id="tspan2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:Verdana;-inkscape-font-specification:Verdana;stroke-width:3.165"
+         x="103.83421"
+         y="53.881538" /></text>
+  </g>
+  <path
+     style="stroke: rgb(0, 0, 0);"
+     d="M 68.837 71.786 L 37.15 155.883 L 53.064 203.681 L 78.715 71.839 L 68.837 71.786 Z"
+     id="object-0" />
+  <path
+     style="stroke: rgb(0, 0, 0);"
+     d="M 82.923 71.933 L 100.978 131.72 L 131.916 73.683 L 82.923 71.933 Z"
+     id="object-1" />
+  <path
+     style="stroke: rgb(0, 0, 0);"
+     d="M 139.595 74.133 L 152.902 74.685 L 172.838 135.85 L 151.584 192.296 L 139.595 74.133 Z"
+     id="object-2" />
+  <path
+     style="stroke: rgb(0, 0, 0);"
+     d="M 81.249 85.341 L 56.605 204.267 L 98.151 138.367 L 81.249 85.341 Z"
+     id="object-3" />
+  <path
+     style="stroke: rgb(0, 0, 0);"
+     d="M 131.569 85.977 L 147.576 185.817 L 108.592 135.186 L 131.569 85.977 Z"
+     id="object-4" />
+  <path
+     style="stroke: rgb(0, 0, 0);"
+     d="M 104.831 141.112 L 56.928 207.9 L 63.787 218.71 C 63.787 218.71 133.591 217.411 133.777 217.597 C 133.963 217.783 145.466 198.261 145.466 198.261 L 145.281 191.024 L 104.831 141.112 Z"
+     id="object-5" />
+</svg>
