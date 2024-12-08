@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    padding: 0;
     font-family: "Inter", sans-serif;
     background-color: #D9D9D9;
 }
@@ -41,8 +42,8 @@ h1 {
 }
 
 #buy {
-    position: fixed;
-    bottom: 5%;
+    position: relative;
+    bottom: 15%;
     background-color: #6BA863;
     width: 250px;
     height: 70px;
@@ -75,10 +76,12 @@ h1 {
 }
 
 #lab {
-    background-color: #6BA863;
-    position: fixed;
-    left: 0;
+    margin-top: 0;
+    position: relative;
     bottom: 0;
+    left: 0;
+    background-color: #6BA863;
+    margin-top: 10%;
     width: 100%;
     animation: fade-in-zold;
     animation-duration: 1s;
@@ -189,4 +192,3 @@ img {
     width: 35%;
     height: 35%;
 }
-
